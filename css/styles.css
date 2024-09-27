@@ -28,3 +28,20 @@ h2 {
 h3 {
     color: var(--secondary);
 }
+
+.linkp, .linkd{
+    text-decoration: none;
+    color: var(--secondary);
+}
+
+.linkEmail, .linkTop{
+    color:black;
+}
+
+.linkEmail{
+    font-weight: bold;
+}
+
+.linkTop{
+    text-decoration: none;
+}
