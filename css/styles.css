@@ -2,9 +2,14 @@
     --primary: #f5f1e5;
     --secondary: #337044;
 }
+  
 
 html{
     font-size: 62.5%;
+}
+
+html, button{
+    font-family: Raleway, Arial, sans-serif;
 }
 
 body{
@@ -14,4 +19,12 @@ body{
 
 h1 {
     font-size: 5rem;
+}
+
+h2 {
+    font-family: Brush Script MT, Brush Script Std, cursive, "Cedarville Cursive";
+}
+
+h3 {
+    color: var(--secondary);
 }
